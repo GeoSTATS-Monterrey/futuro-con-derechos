@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2021</name>
+    <Style id="icon-1739-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>B2</name>
+      <description>02-ene. La víctima de 21 años, con epilepsia y con estado de embarazo de 7 meses, fue encontrada con huellas de estrangulamiento. #Pesquería. Fuente: El Norte https://cutt.ly/cWSxR5I</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0899739,25.7955442,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B3</name>
+      <description>21-ene. La víctima de 30 años fue lesionada con arma de fuego en el exterior de su vivienda por dos personas que viajaban a bordo de una motocicleta. #Monterrey. Fuente: Mural. https://cutt.ly/RWSxCNE</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3719844,25.7823378,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B4</name>
+      <description>02-feb. La víctima de 35 años fue encontrada en un baldío con los pies atados y un intento de calcinamiento. Se presume que había sido privada de su libertad. #Juárez. Fuente: El Norte. https://cutt.ly/oWSx3C3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1136048,25.6764515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B5</name>
+      <description>04-feb. La víctima mortal fue herida con arma de fuego cuando estaba en su vehículo junto con otra persona. #Monterrey. Fuente: Milenio. https://cutt.ly/FWSct6Y</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3862596,25.7751119,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B6</name>
+      <description>17-feb. La víctima sin identificar fue encontrada con lesiones por arma de fuego. #Guadalupe. Fuente: ABC Noticias. https://cutt.ly/SWScfuz</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1973649,25.6876723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B7</name>
+      <description>19-feb. La víctima de 40 años fue lesionada con arma de fuego por tres hombres que llegaron a su domicilio preguntando si vendían droga. #García. Fuente: Telediario. https://cutt.ly/4WScnLt</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5665087,25.8048406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B8</name>
+      <description>20-feb. La víctima mortal fue lesionada con un arma de fuego por su pareja sentimental al interior de su vivienda, cuando se encontraba con un amigo. #García. Fuente: El Norte. https://cutt.ly/XWScItH</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5591146,25.7934597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B9</name>
+      <description>21-feb. La víctima de 35 años fue encontrada en la vía pública con golpes en el rostro. #Escobedo. Fuente: El Norte. https://cutt.ly/2WScDZA</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2882365,25.8799151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B10</name>
+      <description>23-feb. La víctima de 25 años recibió impactos por arma de fuego en cuello y cabeza. #Monterrey. Fuente: El Norte. https://cutt.ly/FWSvt4B</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.378945,25.7580817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B11</name>
+      <description>26-feb. La mujer de 32 años fue asesinada con arma de fuego al interior de su vivienda por dos hombres a bordo de una moto. #Juárez. Fuente: Telediario. https://cutt.ly/5WSvfDR</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1526485,25.6106026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B12</name>
+      <description>01-mar. La víctima de 25 años fue encontrada al interior de su vivienda con lesiones de arma blanca. En el lugar se suicidó su presunto agresor de 30 años. #SalinasVictoria. Fuente: Milenio. https://cutt.ly/vWSvc0h</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3185037,25.9623549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B13</name>
+      <description>03-mar. La víctima de 25 años fue lesionada en su vivienda con arma de fuego por dos hombres que viajaban en una bicicleta. #Guadalupe. Fuente: Telediario. https://cutt.ly/vWSvEbv</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1914494,25.7068006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B14</name>
+      <description>05-mar. La víctima de 19 años fue encontrada en el lecho del Río Santa Catarina con huellas de estrangulamiento. #SanPedro. Fuente: El Debate. https://cutt.ly/kWSvSYj</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3804174,25.6697879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B15</name>
+      <description>06-mar. La mujer de 53 años fue encontrada sin vida en el lecho del río, después de dejar a su hija a la estación del transporte público. #García. Fuente: Multimedios. https://cutt.ly/eWSvXHL</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5871765,25.803929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B16</name>
+      <description>08-mar. La mujer fue atropellada por una unidad de transporte privado. #Juárez. Fuente: Telediario. https://cutt.ly/NWSv8rp</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0963365,25.6458268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B17</name>
+      <description>16-mar. La víctima fue encontrada en la tienda de abarrotes con lesiones por arma de fuego por un hombre que ingresó a la misma. #Monterrey. Fuente: Telediario. https://cutt.ly/iWSbwAp</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3965612,25.7531535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B18</name>
+      <description>22-mar. La menor de 2 años de edad murió en un aparente accidente vial. #SanNicolás. Fuente: La Jornada https://cutt.ly/6GZANWF</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.225627,25.7236503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B19</name>
+      <description>22-mar. La menor de 5 años de edad murió en un aparente accidente vial. #SanNicolás. Fuente: La Jornada https://cutt.ly/6GZANWF</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2256163,25.7236117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B20</name>
+      <description>23-mar. La mujer fue encontrada sin vida en su vivienda con lesiones en el cuello y el mentón. #Ciénega. Fuente: Milenio. https://cutt.ly/UWSbolh</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1604689,25.9768804,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B21</name>
+      <description>24-mar. La mujer fue atropellada por un conductor de un vehículo tipo Partner marca Peugeot. #Juárez. Fuente: Dominio Medios. https://cutt.ly/nWSbXNt</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0842897,25.64904,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B22</name>
+      <description>25-mar. La víctima fue encontrada al interior de la vivienda de su ex pareja con huellas de estrangulamiento y con signos de violencia sexual. #ElCarmen. Fuente: El Porvenir. https://cutt.ly/1WSb2Yj</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3137327,25.8640878,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B23</name>
+      <description>10-abr. La mujer fue encontrada en un arroyo en el Ejido San Fernando. #Linares. Fuente: Telediario. https://cutt.ly/aWSniwY</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -99.6424142,24.6217638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B24</name>
+      <description>13-abr. La victima de 22 años se encontraba con huellas de estrangulamiento; el agresor fue internado en el Centro de Reinserción Social del Estado. #GeneralZuazúa. Fuente: Milenio. https://cutt.ly/iWSnjYB</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1731913,25.8930383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B25</name>
+      <description>14-abr. La víctima de 19 años fue encontrada muerta por al interior de su domicilio por familiares, quienes dieron aviso a las autoridades. #Escobedo. Fuente: Milenio. https://cutt.ly/XWSnvQg</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3234399,25.7942633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B26</name>
+      <description>20-abr. La victima de 26 años se encontraba de visita, fue atacada con un arma de fuego al interior de una vivienda. #Ciénega. Fuente: Telediario. https://cutt.ly/eWSnKNY</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1860625,25.9407044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B27</name>
+      <description>21-abr. La victima de 23 años fue embestida por una patrulla al interior de su vivienda. #Escobedo. Fuente: INFO7. https://cutt.ly/fWSnM3d</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.378496,25.8414836,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B28</name>
+      <description>21-abr. La victima de 3 años fue embestida por una patrulla al interior de su vivienda. #Escobedo. Fuente: INFO7. https://cutt.ly/wWSn5Vx</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3783995,25.841474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B29</name>
+      <description>23-abr. La víctima de 43 años fue encontrada sin vida al interior de la vivienda con huella de estrangulamiento. #Juárez. Fuente: Telediario. https://cutt.ly/mWSmowR</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1130665,25.6951623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B30</name>
+      <description>23-abr. La menor de 12 años perdió la vida en un accidente vial en el vehículo viajaba con su familia. #Apodaca. Fuente: Dominio Medios. https://cutt.ly/4WSmPnk</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1701549,25.7745716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B31</name>
+      <description>26-abr. La mujer fue impactada por otro vehículo tipo Platina color gris, falleciendo en el lugar de los hechos así como su esposo, mientras que sus hijos resultaron gravemente heridos. Era candidata a la presidencia municipal. #Montemorelos (ubicación aproximada). Fuente: Los Tubos. https://cutt.ly/NWSmJZU</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -99.8582239,25.1901847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B32</name>
+      <description>02-may. La victima de 27 años fue atropellada por un motociclista. #Santiago. Fuente: ABC Noticias. https://cutt.ly/TWSmNsg</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1941997,25.5084022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B33</name>
+      <description>03-may. La mujer no identificada perdió la vida junto con un menor de 15 años cuando el conductor del vehículo en el que viajaban se impactó en un tráiler que estaba estacionado. #Apodaca (ubicación aproximada). Fuente: El Norte. https://cutt.ly/3WSQu9f</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2336573,25.8654582,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B34</name>
+      <description>06-may. La menor de 38 semanas fue encontrada sin vida en un camión recolector de basura con heridas de arma blanca. #Monterrey. Fuente: ABC Noticias. https://cutt.ly/IWSQWoS</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3821322,25.7124599,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B35</name>
+      <description>10-may. La mujer de 45 años viajaba con su pareja cuando los atacaron en un estacionamiento con arma de fuego. #SanNicolás. Fuente: Dominio Medios. https://cutt.ly/aWSQPvu</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2491466,25.7485297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B36</name>
+      <description>19-may. La mujer de 20 años murió en un aparente percance vial, junto con otras tres amistades, cuando se impactó el conductor contra una unidad pesada. #Apodaca. Fuente: Multimedios. https://cutt.ly/KWSQJps</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2210228,25.8199929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B37</name>
+      <description>19-may. La mujer de 21 años murió en un aparente percance vial, junto con otras tres amistades, cuando se impactó el conductor contra una unidad pesada. #Apodaca. Fuente: Multimedios. https://cutt.ly/qWSQNaQ</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2210228,25.8199929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B38</name>
+      <description>21-may. La mujer de aprox. 50 años fue encontrada con con una playera que envolvía su cabeza con lesiones y moretones en otras partes de su cuerpo. #García (ubicación aproximada). Fuente: Telediario. https://cutt.ly/3WSQ8Tq</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5420819,25.81359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B39</name>
+      <description>23-may. La mujer no identificada fue atacada en su domicilio con arma de fuego cuando se encontraba con su pareja. #Apodaca (ubicación aproximada). Fuente: ABC Noticias. https://cutt.ly/QWSWwZp</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2547299,25.7701739,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B40</name>
+      <description>25-may. La mujer de aprox. 30 a 36 años fue encontrada por elementos policiales municipales al costado de la carretera con lesiones y huellas de violencia. #Cadereyta (ubicación aproximada). Fuente: ABC Noticias. https://cutt.ly/QWSWwZp</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -99.9943061,25.4434218,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B41</name>
+      <description>26-may. La mujer no identificada fue encontrada en un área de juegos infantiles con huellas de violencia y envuelta en cobijas. #García (ubicación aproximada). Fuente: ABC Noticias. https://cutt.ly/2WSWWL8</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5610678,25.800594,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B42</name>
+      <description>30-may. La mujer no identificada de aprox. 40 a 45 años fue encontrada sin vida. #García. Fuente: Telediario. https://cutt.ly/cWSWO35</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4972481,25.7582963,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B43</name>
+      <description>02-jun. La mujer de 31 años fue asesinada con arma de fuego al interior de su vivienda. SantaCatarina (ubicación aproximada). Fuente: Telediario. https://cutt.ly/dWSWMGn</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4287847,25.6851684,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B44</name>
+      <description>09-jun. La mujer de 33 años fue asesinada con arma de fuego por tres hombres que ingresaron a su domicilio. #Ciénega. Fuente: Telediario. https://cutt.ly/yWSW8mf</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.175381,25.9681902,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B45</name>
+      <description>11-jun. La mujer de 52 años fue asesinada con arma de fuego por hombres desconocidos que llegaron al lugar mientras la víctima platicaba con sus vecinas. #Monterrey. Fuente: Telediario. https://cutt.ly/TWSEe3K</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2950637,25.7003834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B46</name>
+      <description>15-jun. La mujer no identificada fue asesinada por hombres armados, mientras estaba abordo de un vehículo estacionado junto con un hombre que tampoco fue identificado. #Monterrey. Fuente: Dominio Medios. https://cutt.ly/3WSEsSF</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3912563,25.7557349,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B47</name>
+      <description>18-jun. La mujer de 39 años fue asesinada con arma de fuego al interior de su vivienda por personas desconocidas. #Guadalupe. Fuente: Dominio Medios. https://cutt.ly/lWSE547</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1646828,25.7042904,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B48</name>
+      <description>19-jun. La menor de edad no identificada falleció por un atropello de un vehículo, cuando esperaba junto con un hombre el transporte público, quien también falleció en el lugar de los hechos. #SanNicolás. Fuente: Telediario. https://cutt.ly/nWSRypw</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3009328,25.7662828,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B49</name>
+      <description>20-jun. La mujer de 30 años fue asesinada con arma de fuego por hombres armados que arribaron a un baile colombiano, asesinado a un hombre y lesionando a tres personas. #Monterrey. Fuente: Dominio Medios. https://cutt.ly/NWSRswD</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3716048,25.7763353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B51</name>
+      <description>07-jul. La recién nacida fue encontrada sin vida envuelta en un cobertor a la puerta de una vivienda. Posteriormente determinó la Fiscalía que no nació viva por asfixia intrauterina. #Escobedo. Fuente: Dominio Medios. https://cutt.ly/qWSRltB</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3257323,25.7667284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B52</name>
+      <description>08-jul. La menor de edad perdió la vida por atropellamiento de un vehículo tipo Liberty manejado por un conductor de 28 años. #García. Fuente: Telediario. https://cutt.ly/gWSRWve</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4840741,25.7868689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B53</name>
+      <description>10-jul. La mujer de 57 años fue asesinada con disparos por arma de fuego en la cabeza al interior de una tienda de abarrotes por unos supuestos clientes que iban vestidos de negro y que huyeron rumbo a Hospital General. #García. Fuente: Telediario. https://cutt.ly/TWSRIEA</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5633058,25.7975859,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B54</name>
+      <description>14-jul. La mujer no identificada fue atropellada por una unidad de transporte público. #Monterrey. Fuente: ABC Noticias. https://cutt.ly/oWSRD7O</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3230808,25.6758075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B55</name>
+      <description>15-jul. La mujer de 39 años fue apuñalada con arma de blanca por su pareja, quien intentó suicidarse, en presencia de su hijo menor de edad. #Escobedo. Fuente: ABC Noticias. https://cutt.ly/kWSR1cc</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4002891,25.8458769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B56</name>
+      <description>15-jul. La mujer de 28 años fue asesinada con arma de fuego por personas desconocidas en la vía pública cuando era acompañada por otro hombre que también fue asesinado. #Apodaca. Fuente: ABC Noticias. https://cutt.ly/eWSR4Mc</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1529782,25.7114013,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B57</name>
+      <description>17-jul. La mujer de 30 años fue asesinada afuera de su vivienda con un arma de fuego de grueso calibre por hombres que viajaban a bordo de una camioneta blanca. #Escobedo</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3326437,25.7815737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B58</name>
+      <description>18-jul. La mujer de 80 años fue asesinada con golpes y su cuerpo calcinado a 300 metros de la carretera, cerca de un basurero. #GeneralBravo (ubicación aproximada). Fuente: Milenio. https://cutt.ly/lWSTQMr</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -99.0433369,25.828219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B59</name>
+      <description>21-jul. La mujer de 39 años fue asesinada con arma de fuego al salir de una tienda de abarrotes por un hombre delgado con gorra, camisa roja o negra y pantalón de mezclilla. #Santiago https://cutt.ly/oWtu2Rx</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1646259,25.4498425,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B60</name>
+      <description>23-jul. La mujer de 21 años de edad fue asesinada al interior de su vivienda con arma de fuego por sujetos no identificados. #Monterrey. Fuente: Telediario. https://cutt.ly/hWSTF58</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4156973,25.7739903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B61</name>
+      <description>29-jul. La mujer de 28 años fue encontrada por elementos policiales durante un patrullaje, sin signos vitales en una brecha y con heridas por arma de fuego. #Monterrey (ubicación aproximada). Fuente: Telediario. https://cutt.ly/vWSTVkv</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4200667,25.77656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B62</name>
+      <description>04-ago. Una mujer no identificada fue localizada con huellas de estrangulamiento al interior de una vivienda, luego de que se ejecutara una orden de cateo. #SanNicolás (ubicación aproximada). Fuente: Milenio. https://cutt.ly/VWSYwlm</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3208285,25.7371586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B63</name>
+      <description>05-ago. Una mujer de 73 años fue localizada sin vida con un golpe en la cabeza al interior de su vivienda. ·#Escobedo (ubicación aproximada). Fuente: Dominio Medios. https://cutt.ly/1WSYaoC</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.372808,25.7983766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B64</name>
+      <description>06-ago. La mujer de 25 años fue asesinada con arma de fuego, junto con su pareja, por cuatro hombres que ingresaron a su vivienda. #Escobedo (ubicación aproximada). Fuente: Telediario. https://cutt.ly/WWSYILC</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4242867,25.8432475,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B65</name>
+      <description>06-ago. Una mujer fue localizada sin vida en el cauce del Río Santa Catarina, con cinta adhesiva en la boca y atada de pies y manos. #Guadalupe. Fuente: Dominio Medios. https://cutt.ly/dWSYLfo</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2264567,25.6935262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B66</name>
+      <description>07-ago. Una mujer fue asesinada de cuatro disparos de arma de fuego en la vía pública. #SanNicolás. Fuente: Telediario. https://cutt.ly/YWSUszH</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2591943,25.7144404,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B67</name>
+      <description>07-ago. Una mujer de 43 años fue asesinada con arma de fuego mientras se encontraba haciendo la limpieza en una vivienda. #Apodaca. Fuente: Telediario. https://cutt.ly/TWSUj83</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1287496,25.7040453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B68</name>
+      <description>11-ago. La mujer de aproximadamente 30 o 35 años de edad fue hallada sin vida sobre la carpeta asfáltica con severas lesiones en su cuerpo. #Ciénega (ubicación aproximada). Fuente: Telediario. https://cutt.ly/XWSUbJh</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.205821,25.9053464,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B69</name>
+      <description>12-ago. Una mujer fue hallada sin vida cerca de las vías del tren en estado de descomposición. Según dicho de vecinos se trataba de una mujer centroamericana y que vivía en situación de calle. #García. Fuente: Milenio. https://cutt.ly/AWSUE3n</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5740236,25.8251781,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B70</name>
+      <description>14-ago. La mujer de 26 años fue asesinada con arma de fuego en el exterior de su vivienda por un sujeto que viajaba a bordo de una motocicleta. #SantaCatarina. Fuente: Telediario. https://cutt.ly/qWSUD9f</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4566887,25.6960641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B71</name>
+      <description><![CDATA[28-jul. La mujer de 23 años fue asesinada en un motel y su cuerpo fue trasladado debajo de un puente del arroyo "Los Piojos", ubicado en la autopista Monterrey-Aeropuerto. #Monterrey (ubicación aproximada). Fuente: El Debate. https://cutt.ly/kWSUBNU]]></description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2722152,25.684954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B72</name>
+      <description>16-ago. La mujer de 28 años de edad fue asesinada con arma de fuego por hombres a bordo de tres camionetas tipo pick-up, durante una reunión con más de 40 personas. #Escobedo. Fuente: El Porvenir. https://cutt.ly/hWSU3LB</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4212945,25.826574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B74</name>
+      <description>21-ago. La mujer de 30 años de edad fue asesinada con arma de fuego, en donde también falleció un hombre de aproximadamente 40 años y uno más resultó lesionado. #Monterrey. Fuente: El Porvenir. https://cutt.ly/qWtiqyK</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3573561,25.7645647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B75</name>
+      <description>28-ago-2021. Hallazgo de una mujer sin vida por parte de elementos policiales que recibieron el reporte a las 20:00 horas. El cuerpo de la mujer estaba entre la maleza con un cordón en el cuello y envuelta en un cobertor con cinta adhesiva alrededor. Las autoridades no determinaron el tipo de heridas que presentaba. #Juárez (ubicación aproximada). Fuente: Zócalo. https://cutt.ly/QWSId9x</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0939375,25.6956875,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B76</name>
+      <description>17-jul-2021. La mujer de 72 años fue asesinada en su vivienda al recibir disparos con arma de fuego en el rostro por parte de un hombre de 45 años que fue detenido el 30 de agosto de 2021 en la colonia Urdiales, en cumplimiento de una orden de aprehensión. #Monterrey (ubicación aproximada). Fuente: Dominio Medios. https://cutt.ly/aWSIvQj</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3029472,25.6366792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B77</name>
+      <description><![CDATA[01-sep-2021. La mujer no identificada de 45 a 50 años al ver que se aproximaba el ferrocarril, según los testimonios, se atravesó y fue impactada por el segundo vagón. #SanNicolás. <br><br>La mujer vestía pantalón negro y blusa blanca con estampado oscuro; calzaba tenis grises y traía calcetones del mismo color. Fuente: Telediario. https://cutt.ly/bWSITiL]]></description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3010158,25.750302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B78</name>
+      <description>06-sep-2021. La mujer fue asesinada con un arma blanca (cuchillo) por su pareja sentimental de 41 años de edad, quien luego intentó quitarse la vida. #Escobedo. Fuente: El Porvenir. https://cutt.ly/qWHW5RH</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4190653,25.8199147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B79</name>
+      <description>07-may-2021. 23:13 h. Una mujer de 27 años de edad fue asesinada por un hombre de 30 años, que ingresó a su vivienda, al tomarla del cuello para estrangularla, provocándole luxación en la vertebra cervical. #García (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/IWX6g4Y</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4874874,25.796798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B80</name>
+      <description>09-sep-2021. 18:30 h. Una mujer fue hallada sin vida en estado de descomposición y con aparentes agresiones sexuales, por su madre de 68 años que acudió a su domicilio luego de que no respondiera por dos días sus llamadas telefónicas. #SanNicolás. Fuente: El Norte. https://cutt.ly/pWCr0Ei</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2731831,25.7167805,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B81</name>
+      <description>11-sep-2021. La mujer de 39 años perdió la vida en el Hospital Universitario 24 horas después de que fuera herida con arma de fuego por un hombre, mientras esperaba en el porche de su casa a su pareja sentimental. #Monterrey (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/dWMY5Qy</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.379009,25.7863821,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B82</name>
+      <description>12-sep-2021. La mujer fue asesinada en una fiesta junto con un hombre, por otro hombre que accionó su arma de fuego en medio de una discusión. #Guadalupe (ubicación aproximada). Fuente: Telediario. https://cutt.ly/tWMPxLV</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2394193,25.6969666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B83</name>
+      <description>31-ene-2021. La mujer de 23 años fue sustraída de su domicilio y trasladada al domicilio del agresor, en donde con dos personas más la privaron de la vida al golpearla varias veces con un objeto y herirla con un arma blanca. #Juárez (ubicación aproximada). Fuente: Dominio Medios. https://cutt.ly/lEl3Zod</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1184189,25.6644058,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B84</name>
+      <description>17-sep-2021. Una mujer de 68 años murió tras ser atropellada por un conductor de una camioneta azul que huyó del lugar. #SantaCatarina. Fuente: Telediario. https://bit.ly/3i068ap</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4667336,25.695941,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B85</name>
+      <description>21-sep-2021. Una mujer murió tras ser atropellada por un conductor de un Verna. #Guadalupe. Fuente: Telediario. https://bit.ly/3zBoSCX</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2606877,25.663131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B86</name>
+      <description>23-sep-2021. 09:40 H. La mujer no identificada fue asesinada con un impacto de bala (por arma de fuego) en la cabeza, por hombres que llegaron a bordo de un vehículo azul metálico. #Pesquería. Fuente: El Porvenir. https://cutt.ly/sEchtIj</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1117563,25.8243715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B87</name>
+      <description>23-sep-2021. 09:40 H. La mujer no identificada fue asesinada con arma de fuego por hombres que llegaron a bordo de un vehículo azul metálico. #Pesquería. Fuente: El Porvenir. https://cutt.ly/sEchtIj</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1117563,25.8243715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B88</name>
+      <description>29-sep-2021. La mujer de 40 años fue atropellada por una unidad de la Ruta 527 San Miguel al pasar por enfrente del vehículo. #Guadalupe. Fuente: El Porvenir. https://cutt.ly/QEOUdPq</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1802601,25.7272424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B89</name>
+      <description>30-sep-2021. La mujer de 21 años de edad fue hallada sin vida en una de las habitaciones de la vivienda por su familia, presumiblemente por golpes y arma punzocortante. Su familia y vecinos señalan violencia de pareja previa. #Ciénega (ubicación aproximada). Fuente: Milenio. https://cutt.ly/6EPgOFG</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.150458,25.9614067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B90</name>
+      <description>03-oct-2021. 06:00 horas. Una mujer de 25 años de edad fue asesinada con un disparo de arma de fuego en la cabeza que recibió al interior de su domicilio por hombres armados que llegaron y se retiraron a bordo de una camioneta. También asesinaron a un hombre de la misma edad. #ElCarmen (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/UEZnbOS</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3111362,25.863585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B91</name>
+      <description>03-oct-2021. 13:00 H. Una mujer fue asesinada presuntamente por su esposo al interior de su vivienda. #Monterrey. Fuente: ABC Noticias. https://cutt.ly/PEZm7cJ</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3861927,25.7920428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B92</name>
+      <description>05-oct-2021.16:00 H. La mujer de 22 años falleció en la Clínica Camino Real, a donde la trasladaron y abandonaron luego de que se sometiera a una acualipo en un spa. #Monterrey. Fuente: El Norte. https://cutt.ly/8EMfWDK</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3420648,25.6923173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B93</name>
+      <description>13-oct-2021. 12:45 H. La mujer de 23 años fue localizada sin vida con golpes de consideración en todo su cuerpo a un costado de la carretera. #Ciénega (ubicación aproximada). Fuente: El Norte. https://cutt.ly/SRyUsgW</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1226726,26.0091968,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B94</name>
+      <description>16-oct-2021. Se localizó el torso de una mujer al interior de unas bolsas de plástico. #Monterrey. Fuente: Milenio. https://cutt.ly/XRfRNR3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3270337,25.6657541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B95</name>
+      <description>16-oct-2021. Una mujer de 23 años de edad fue asesinada al interior de una vivienda con arma blanca presuntamente por su esposo, quien salió ese día de una clínica de rehabilitación de adicciones, en donde estaba internado. Según las notas, durmió en ese domicilio y se entregó ante las autoridades municipales de San Pedro Garza García el 17 de octubre. #Juárez. Fuente: El Norte. https://cutt.ly/eRfU9E3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0570804,25.6458851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B96</name>
+      <description>16-oct-2021. Una mujer de 50 años de edad fue asesinada al interior de una vivienda con arma blanca presuntamente por su hijo, quien salió ese día de una clínica de rehabilitación de adicciones, en donde estaba internado. Según las notas, durmió en ese domicilio y se entregó ante las autoridades municipales de San Pedro Garza García el 17 de octubre. #Juárez. Fuente: El Norte. https://cutt.ly/eRfU9E3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0570804,25.6458851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B97</name>
+      <description>16-oct-2021. Una menor de edad de 7 años fue asesinada al interior de una vivienda con arma blanca presuntamente por su padre, quien salió ese día de una clínica de rehabilitación de adicciones, en donde estaba internado. Según las notas, durmió en ese domicilio y se entregó ante las autoridades municipales de San Pedro Garza García el 17 de octubre. #Juárez. Fuente: El Norte. https://cutt.ly/eRfU9E3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0570804,25.6458851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B98</name>
+      <description>16-oct-2021. Una menor de edad de 6 meses fue asesinada al interior de una vivienda con arma blanca presuntamente por su padre, quien salió ese día de una clínica de rehabilitación de adicciones, en donde estaba internado. Según las notas, durmió en ese domicilio y se entregó ante las autoridades municipales de San Pedro Garza García el 17 de octubre. #Juárez. Fuente: El Norte. https://cutt.ly/eRfU9E3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0570804,25.6458851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B99</name>
+      <description>22-oct-2021. 12:30 H. Una mujer fue localizada envuelta en un cobertor y sin vida en la entrada de una brecha. #Cadereyta (ubicación aproximada). Fuente: Telediario. https://cutt.ly/DRIm0cv</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0353598,25.596256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B100</name>
+      <description>24-oct-2021. 16:19 H. Una mujer adulta mayor fue hallada sin vida al interior de una tienda de abarrotes por un familiar. #Guadalupe. Fuente: El Porvenir. https://cutt.ly/wRIQLjn</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2720625,25.6745625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B101</name>
+      <description>27-oct-2021. 21:00 H. Una mujer fue baleada por hombres que llegaron a bordo de su domicilio, falleciendo horas después en el nosocomio por las heridas ocasionadas. #Monterrey. Fuente: El Porvenir. https://cutt.ly/bRHcId0</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3908143,25.7847588,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B102</name>
+      <description>05-nov-2021. 08:00 H. A la hora se reportó el hallazgo por un automovilista del cuerpo de una mujer sin vida entre los matorrales. #SabinasHidalgo (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/dTrUPL8</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0882875,26.2686911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B103</name>
+      <description>06-nov-2021. 13:20 H. La mujer se encontraba maniatada y en el suelo con heridas de arma blanca en diferentes partes del cuerpo. Falleció durante el camino al hospital. #Pesquería. Fuente: Telediario. https://cutt.ly/VTrUBls</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.060627,25.793577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B104</name>
+      <description>13-nov-2021. 16:30 H. Una mujer de aprox. 40 años de edad fue asesinada con arma de fuego afuera de una sucursal bancaria, ubicada frente al Palacio de Justicia. #Monterrey. Fuente: ABC Noticias. https://cutt.ly/bTmxyQ4</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3423125,25.7244375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B105</name>
+      <description>24-nov-2021. 15:30 H. La mujer de 63 años fue asesinada con un arma blanca (cuchillo) y encontrada en la sala de la vivienda por la policía, que llegó al lugar de los hechos, tocaron y no les abrieron, pero al escuchar ruidos se brincaron la barda. #Apodaca (ubicación aproximada). Fuente: El Norte. https://cutt.ly/1TCn40C</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1421829,25.8384262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B106</name>
+      <description>25-nov-2021. 00:00 H. Una mujer de aproximadamente 26 años fue localizada sin vida en la carpeta asfáltica por un hombre que detuvo su vehículo al advertir la presencia de un cuerpo, dando aviso a los puestos de auxilio. Se presume que fue arrollada por un vehículo. #Juárez (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/kTB2OHc </description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0277551,25.6252132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B107</name>
+      <description>29-nov-2021. 02:30 H. Una mujer de 42 años de edad fue asesinada con un disparo de arma de fuego en la cabeza detrás de la oreja derecha. #SantaCatarina. Fuente: El Mañana. https://cutt.ly/DT8FoS6</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4216613,25.6876376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B108</name>
+      <description>29-nov-2021. Una mujer fue localizada sin vida en un terreno baldío, pero debido a las condiciones del cadáver las autoridades no determinaron características físicas ni una edad aproximada. #SanPedro (ubicación aproximada). Fuente: Dominio Medios. https://cutt.ly/UT78yQb</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4087991,25.6618676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B109</name>
+      <description>16-dic-2021. Una mujer de 28 años de edad, con reporte de desaparición desde el 30 de noviembre, fue localizada sin vida en una fosa clandestina. #SalinasVictoria (ubicación aproximada). Fuente: ABC Noticias. https://cutt.ly/sY9r9jU</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.284468,25.9991253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B110</name>
+      <description>16-dic-2021. Una mujer de 23 años de edad, con reporte de desaparición desde el 30 de noviembre, fue localizada sin vida en una fosa clandestina. #SalinasVictoria (ubicación aproximada). Fuente: ABC Noticias. https://cutt.ly/sY9r9jU</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.284468,25.9991253,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B111</name>
+      <description>17-dic-2021. 21:00 H. Una mujer fue asesinada con arma de fuego corta cuando se encontraba en un mercado rodante por unos hombres a bordo de una motocicleta, quienes le dispararon en repetidas ocasiones. #Guadalupe. Fuente: El Porvenir. https://cutt.ly/VY6dtN6</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.213886,25.6564666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B112</name>
+      <description>22-dic-2021. 01:20 H. Una mujer de 19 años fue asesinada a golpes por su pareja sentimental, quien le causó una contusión profunda en el cráneo. #Escobedo (ubicación aproximada). Fuentes: El Porvenir https://cutt.ly/VUl1Oug y Zócalo https://cutt.ly/EUl1AJ3</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3054743,25.8003324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B113</name>
+      <description>24-dic-2021. 09:00 H. En un ataque múltiple por hombres armados con tres víctimas, una mujer de 35 años fue asesinada con arma de fuego. #Escobedo. Fuente: Telediario. https://cutt.ly/TUlBOoT</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3189062,25.7796611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B114</name>
+      <description>26-dic-2021. 23:00 H. Una mujer fue localizada sin vida en el segundo piso de una vivienda por elementos policiales. En un inicio trascendió que la causa de muerte fue natural, pero la necropsia reveló que fue por asfixia por ahorcamiento. #SantaCatarina. Fuentes: Telediario https://cutt.ly/BUmgew6 y El Norte https://cutt.ly/mUmgy4c</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.494604,25.695224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B115</name>
+      <description>27-dic-2021. 17:20 H. Fueron localizadas en una brecha de un terreno baldío o monte a 3 personas desnudas y sin vida, de las cuales una es mujer de cabello negro y tez aperlada. #Escobedo. Fuentes: Dominio https://cutt.ly/nUmpiMd y El Porvenir https://cutt.ly/eUmplLw</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4221002,25.8235578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B116</name>
+      <description>30-dic.-2021. 21:00 H. Fue reportado el hallazgo aparentemente de una mujer sin vida por un hombre que cruzaba el río, quien dio aviso a la policía. #SanPedro (ubicación aproximada). Fuente: El Norte https://cutt.ly/sUFa9ux</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.386329,25.669685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B117</name>
+      <description>21-sep-2021. 10:00 H. Una mujer de aproximadamente 30 o 35 años fue asesinada a pedradas y localizada en un terreno baldío ubicado a espaldas de un puesto de socorristas de la Cruz Roja. La mujer fue encontrada boca arriba y con heridas en la cabeza, y cerca de su cuerpo se hallaron piedras ensangrentadas. #SabinasHidalgo Fuente: Reforma https://cutt.ly/KHNlejW</description>
+      <styleUrl>#icon-1739-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1960952,26.4971681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

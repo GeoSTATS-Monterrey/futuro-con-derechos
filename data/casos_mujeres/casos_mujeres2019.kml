@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2019</name>
+    <Style id="icon-1739-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1739-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1739-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>B2</name>
+      <description>01-ene. La víctima de 50 años fue encontrada con lesiones de arma de fuego en un baldío. #SantaCatarina. Fuente: Multimedios. https://cutt.ly/SWGGP5p</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4333552,25.6719715,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B3</name>
+      <description>08-ene. La víctima no identificada de aprox. 40 años fue atropellada en la vía pública. #Monterrey. Fuente: El Norte. https://cutt.ly/2WGGXBa</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3143865,25.6761441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B4</name>
+      <description>10-ene. La víctima de 45 años fue herida con arma de fuego en su negocio. #Montemorelos. Fuente: El Horizonte. https://cutt.ly/QWGHhqu</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.8237384,25.2157322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B5</name>
+      <description>10-ene. La victima fue atropellada, el conductor intentó huir pero fue detenido un kilometro adelante. #Monterrey. Fuente: Milenio. https://cutt.ly/EWGG2LA</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3026771,25.7039625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B6</name>
+      <description>10-ene. La víctima no identificada de aprox. 25 a 30 años fue atropellada en la vía pública. #Apodaca. Fuente: El Norte. https://cutt.ly/wWGHbbw</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2405133,25.8012697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B7</name>
+      <description>14-ene. La víctima de 54 años fue herida con arma de fuego en su vivienda. #Apodaca. Fuente: ABC Noticias. https://cutt.ly/IWGHRu1</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1851122,25.7239731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B8</name>
+      <description>16-ene. La víctima no identificada fue atropellada. #Guadalupe. </description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1646681,25.7054848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B9</name>
+      <description>16-ene. La víctima no identificada fue encontrada sin vida. #Ciénega. </description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1860625,25.9407044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B10</name>
+      <description>20-ene. La víctima de entre 45 y 50 años fue herida con arma de fuego en su vivienda. #Guadalupe. Fuente: Multimedios. https://cutt.ly/pWGHS8S</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.196309,25.6851751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B11</name>
+      <description>20-ene. La víctima con discapacidad de 42 años falleció a consecuencias de intoxicación por humo en su vivienda. #Guadalupe. Fuente: Multimedios. https://cutt.ly/wWGHKfy</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2060987,25.7145151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B12</name>
+      <description>25-ene. La víctima de 23 años fue encontrada con huellas de estrangulamiento en una habitación de un motel. #DoctorArroyo. Fuente: El Norte. https://cutt.ly/qWGJgbK</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1900031,23.6772387,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B13</name>
+      <description>27-ene. La víctima de 27 años fue herida con arma de fuego en su vivienda por personas que iban en un auto. #Ciénega (ubicación aproximada). Fuente: El Norte. https://cutt.ly/kWGJcC8</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.159859,25.9798291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B14</name>
+      <description>01-feb. La víctima de 3 años fue degollada en su vivienda. #SalinasVictoria. Fuente: El Heraldo de Juárez. https://cutt.ly/EWttU2R</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2673992,25.8733827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B15</name>
+      <description>01-feb. La víctima de 5 años fue degollada en su vivienda. #SalinasVictoria. Fuente: El Heraldo de Juárez. https://cutt.ly/EWttU2R</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2673992,25.8733827,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B16</name>
+      <description>01-feb. La víctima de 7 años fue degollada en su vivienda. #SalinasVictoria. Fuente: El Heraldo de Juárez. https://cutt.ly/EWttU2R</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2673888,25.873393,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B17</name>
+      <description>09-feb. La víctima no identificada fue encontrada sin vida. #Villaldama (ubicación aproximada). Fuente: El Norte. https://cutt.ly/qWGJAEA</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4284196,26.3989948,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B18</name>
+      <description>11-feb. La víctima no identificada de entre 50 y 55 años fue atropellada. #Cadereyta. Fuente: Milenio. https://cutt.ly/pWGJ3Ei</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.9928792,25.5790116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B19</name>
+      <description>12-feb. La víctima de 61 años fue encontrada sin vida en el baño de su vivienda. #Monterrey. Fuente: Milenio. https://cutt.ly/iWGKqeE</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.8011566,25.1919619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B20</name>
+      <description>12-feb. La víctima de 24 años fue encontrada sin vida en la vivienda donde prestaba sus servicios como trabajadora del hogar. #Monterrey. Fuente: Telediario. https://cutt.ly/WWGKyc0</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2679452,25.5841844,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B21</name>
+      <description>20-feb. La víctima no identificada de aprox. 23 años fue encontrada sin vida. #SantaCatarina</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.426662,25.6878521,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B22</name>
+      <description>21-feb. La víctima de 18 meses presentaba lesiones por golpes cuando llegó a la cínica. #Allende. Fuente: Debate. https://cutt.ly/mWGKsEp</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0244658,25.2710543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B23</name>
+      <description>25-feb. La víctima no identificada fue atropellada. #Monterrey. Fuente: Multimedios. https://cutt.ly/YWGKk7n</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3140896,25.7373107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B24</name>
+      <description>28-feb. La víctima de 63 años fue herida por arma de fuego en su vivienda, junto a un hombre de 73 años, por personas que viajaban en una camioneta tipo pick up. #Galeana. Fuente: ABC Noticias. https://cutt.ly/vWGKQRw</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.077366,24.8254612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B25</name>
+      <description>28-feb. El cuerpo de la victima no identificada fue dejado en la vía publicado por varias personas. #Monterrey. Fuente: Milenio. https://cutt.ly/vWGKY8f</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3532042,25.7460625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B26</name>
+      <description>01-mar. La víctima recién nacida fue encontrada sin vida en una plaza pública. #Juárez. Fuente: Milenio. https://cutt.ly/3WGKFv4</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1743585,25.623078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B27</name>
+      <description>02-mar. La víctima de 22 años fue herida con arma de fuego en su vivienda. #SanNicolás. Fuente: Abstracto Noticias. https://cutt.ly/xWGKXUE</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2658008,25.7327682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B28</name>
+      <description>02-mar. La víctima no identificada fue atropellada por el conductor de un auto pequeño. #Monterrey. Fuente: Milenio. https://cutt.ly/BWGK0SU</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.342661,25.7399728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B29</name>
+      <description>25-mar. La mujer de 23 años fue encontrada con golpes y sin vida en la vivienda que habitaba con su pareja sentimental, quien es originario de Hidalgo. #Ciénega. Fuente: Vanguardia Veracruz. https://cutt.ly/jWGK611</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2026202,25.9074671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B30</name>
+      <description>26-mar. La víctima de 24 años fue encontrada con golpes en el cuerpo en un hotel. #SabinasHidalgo. Fuente: INFO7. https://cutt.ly/SWGLoNr</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2160299,26.4883578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B31</name>
+      <description>06-mar. La víctima de 45 años fue herida en su vivienda con arma de fuego en un ataque múltiple por varias personas. #SanNicolás. Fuente: Multimedios. https://cutt.ly/JWGLzc8</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2213255,25.7271365,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B32</name>
+      <description>06-mar. La víctima de 28 años fue herida en su vivienda con arma de fuego en un ataque múltiple por varias personas. #SanNicolás. Fuente: Multimedios. https://cutt.ly/tWGLQrw</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2213141,25.7271431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B33</name>
+      <description>06-abr. La víctima reconocida por apodo de aprox. 40 años fue lesionada con arma de fuego en un callejón. #Monterrey. Fuente: INFO7. https://cutt.ly/SWGLGsy</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3419272,25.7479916,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B34</name>
+      <description>08-abr. La víctima de 40 años fue lesionada en su negocio de estética con una arma de fuego por un presunto cliente. #Apodaca. Fuente: El Norte. https://cutt.ly/fWGLCeH</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2281386,25.8051759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B35</name>
+      <description>10-abr. La víctima de 14 meses perdió la vida a consecuencia de golpes en su vivienda. #García. Fuente: INFO7. https://cutt.ly/9WGL0xs</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.6276183,25.8201679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B36</name>
+      <description>12-abr. La víctima de 35 años fue atacada con arma de fuego por personas desde un auto. #Monterrey. Fuente: Multimedios. https://cutt.ly/QWGL5f4</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2684404,25.6938125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B37</name>
+      <description>16-abr. La víctima de 50 años fue atacada con arma de fuego por personas desde un auto, en donde un hombre de 56 años también perdió la vida. #Monterrey. Fuente: ABC Noticias. https://cutt.ly/mWGZuUJ</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3395625,25.7395625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B38</name>
+      <description>17-abr. La víctima de 19 años fue atacada con arma de fuego en la estación Penitenciaria. #Monterrey. Fuente: Milenio. https://cutt.ly/7WGZsXL</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3425107,25.7233311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B39</name>
+      <description>19-abr. La víctima no identificada de aprox. 25 años de edad fue atropellada por un auto tipo deportivo. #Monterrey</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3736477,25.7085619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B40</name>
+      <description>23-abr. La víctima de 26 años quien era elemento policial fue atacada con arma de fuego en la vía pública. #Pesquería. Fuente: Milenio. https://cutt.ly/wWGZcue</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1009293,25.8013852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B41</name>
+      <description><![CDATA[10-may. La víctima no identificada de entre 25 y 30 años fue encontrada con lesiones de arma de fuego en la vía pública a la altura de los "puentes gemelos". #Juárez. Fuente: Milenio. https://cutt.ly/6WGZRqN]]></description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0678427,25.6391483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B42</name>
+      <description>12-may. La víctima de 35 años fue atacada con arma de fuego en su vivienda. #Juárez. Fuente: Reforma. https://cutt.ly/gWGZPir</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1500841,25.6198152,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B43</name>
+      <description>14-may. La víctima de 36 años falleció con peritonitis aguda a consecuencia de una intervención médica en una clínica. #Monterrey (ubicación aproximada). Fuente: Noticieros Televisa. https://cutt.ly/1WGZGoq</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3761368,25.6863123,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B44</name>
+      <description>17-may. La víctima de 13 años fue atacada con arma de fuego en el Ejido El Chaparral. #Anáhuac (ubicación aproximada). Fuente: Telediario. https://cutt.ly/3WGZXnf</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1334335,27.2411648,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B45</name>
+      <description>15-may. La víctima de 25 años fue encontrada con huellas de estrangulamiento en la Comunidad de Tlaxcala. #GeneralZuazúa (ubicación aproximada). Fuente: Sin Embargo. https://cutt.ly/QWGZMA6</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0994423,25.9275115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B46</name>
+      <description>19-may. La víctima de 2 años fue lesionada con arma blanca en su vivienda. #Pesquería (ubicación aproximada). Fuente: INFO7. https://cutt.ly/CWGZ7Xu</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1022071,25.7122001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B47</name>
+      <description><![CDATA['05-jun. La víctima no identificada fue encontrada muerta en Portal de las Sierras, #García (ubicación aproximada).]]></description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5829075,25.8003945,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B48</name>
+      <description>05-jun. La víctima de 16 años fue herida con arma de fuego y encontrada en una brecha. #Cadereyta. Fuente: Milenio. https://cutt.ly/eWGXomh</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0037399,25.5741894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B49</name>
+      <description>08-jun. La víctima de 33 años fue encontrada con huellas de estrangulamiento al interior de un ropero en una vivienda. #Escobedo. Fuente: Periódico Central. https://cutt.ly/7WGXhKW</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3211893,25.7808423,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B50</name>
+      <description>26-jun. La víctima de 28 años que era abogada, fue atacada con arma de fuego en la vía pública. #Guadalupe. Fuente: ABC Noticias. https://cutt.ly/6WGXcwl</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2592776,25.6631042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B51</name>
+      <description>01-jul. La victima fue atacada con un arma de fuego por su esposo, aparentemente disparó al aire al escuchar ruidos en la vivienda.  #Guadalupe. Fuente: Dominio Medios. https://cutt.ly/fWGXQ0S</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1862955,25.671025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B52</name>
+      <description>05-jul. Se desconoce el tipo de agresión. #Cadereyta</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0042196,25.5699935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B53</name>
+      <description>06-jul. La víctima se encontraba visitando a su pareja e instantes después, el interno la introdujo a una celda para discutir con ella y después agredirla. #Monterrey. Fuente: Multimedios. https://cutt.ly/1WGXIp1</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.343298,25.7248697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B54</name>
+      <description>06-jul. La víctima de 34 años fue lesionada con arma de fuego. #Cadereyta. Fuente: ABC Noticias. https://cutt.ly/XWGXFza</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.080845,25.6015891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B55</name>
+      <description>06-jul. La víctima y su madre se encontraban caminando por el fraccionamiento,  de un vehículo color verde descendieron dos hombres que con un arma de fuego le dispararon a la hija. #Cadereyta. Fuente: Milenio. https://cutt.ly/AWGXXUN</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0028256,25.5906834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B56</name>
+      <description>10-jul. La víctima de 19 años fue lesionada con arma blanca en la vía pública. #Ciénega. Fuente: El Horizonte. https://cutt.ly/yWGX0K7</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2033457,25.9087138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B57</name>
+      <description>14-jul. La victima fue atacada con un arma blanca y un menor de seis años resulto herido, el  agresor se dio a la fuga. #García. Fuente: El Horizonte. https://cutt.ly/jWGX6eL</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5865821,25.7877193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B58</name>
+      <description>15-jul. La víctima de 20 años fue lesionada en la vía pública con arma de fuego. #Cadereyta. Fuente: ABC Noticias. https://cutt.ly/3WGCt3D</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0718394,25.5963679,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B59</name>
+      <description>21-jul. El cuerpo de la victima fue encontrado en la vía pública con huellas de violencia física. #Monterrey. Fuente: Noticieros Televisa. https://cutt.ly/oWGCaqq</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3683764,25.7625073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B60</name>
+      <description>21-jul. La víctima fue atacada con un arma blanca, su hija de tres años resulto herida. #Juárez. Fuente: Multimedios. https://cutt.ly/8WGCh3c</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.0594146,25.6439565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B61</name>
+      <description>24-jul. La victima sufría de violencia doméstica, fue agredida físicamente por su pareja. #Monterrey. Fuente: El Horizonte. https://cutt.ly/ZWGCvFY</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2443677,25.6832126,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B62</name>
+      <description>27-jul. La mujer no identificada fue asesinada con arma de fuego por personas a bordo de un auto. #García. Fuente: Milenio. https://cutt.ly/vWGCWYs</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4448194,25.7916116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B63</name>
+      <description>01-ago. La mujer de entre 35 y 40 años fue atropellada por un conductor que se dio a la fuga. #Apodaca (No coincide). Fuente: El Norte. https://cutt.ly/mWGCOpC</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1718501,25.7762431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B64</name>
+      <description>09-ago. La mujer de 28 años fue asesinada con arma blanca y encontrada al interior de su vivienda. #Monterrey (ubicación aproximada). Fuente: Milenio. https://cutt.ly/4WGCHvH</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3010322,25.6683026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B65</name>
+      <description>09-ago. La mujer de 71 años fue asesinada por estrangulamiento. #Lámpazos. Fuente: ABC Noticias. https://cutt.ly/cWGCCNN</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5061243,27.025721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B66</name>
+      <description>10-ago. La mujer no identificada fue encontrada sin vida en la vía pública. #García. Fuente: Dominio Medios. https://cutt.ly/tWGC2wx</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5920899,25.8303892,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B67</name>
+      <description>13-ago. La mujer no identificada fue encontrada sin vida. #Cadereyta (ubicación aproximada). </description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.9919243,25.6002346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B68</name>
+      <description>15-ago. La mujer de 19 años fue asesinada por estrangulamiento y arrojada desde el segundo piso de su vivienda por su pareja sentimental. #García. Fuente: Milenio. https://cutt.ly/iWGC641</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.6201503,25.8128011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B69</name>
+      <description>15-ago. La menor de un mes fue asesinada a golpes en su vivienda por su padrastro. #García. Fuente: SIPSE. https://cutt.ly/2WGVdW6</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4817547,25.7935965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B70</name>
+      <description>18-ago. La mujer de 21 años fue asesinada a golpes que recibió en la cabeza en un campo de fútbol por su pareja sentimental. #Montemorelos (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/ZWGVzLS</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.8455632,25.2215751,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B71</name>
+      <description>20-ago. La mujer de 31 años fue atacada con arma de fuego en la vía pública. #García. Fuente: Milenio. https://cutt.ly/4WGVEjM</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4805652,25.7927205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B72</name>
+      <description>20-ago. La mujer de aproximadamente 50 años fue atacada con arma de fuego por una persona mientras instalaba su puesto en un mercado rodante. #Monterrey. Fuente: El Norte. https://cutt.ly/gWGVOxp</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3406447,25.7416094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B73</name>
+      <description>20-ago. La mujer de 31 años fue encontrada sin vida dentro de bolsas de plástico en la vía pública. #Escobedo. Fuente: Milenio. https://cutt.ly/TWGVHdG</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3948755,25.8404245,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B74</name>
+      <description>21-ago. La mujer de 22 años fue asesinada en un ataque con arma de fuego en un parque público. #Monterrey. Fuente: Periódico El Nacional. https://cutt.ly/hWGVVVb</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3838958,25.7807279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B75</name>
+      <description>21-ago. La mujer de aproximadamente 22 años fue asesinada en un ataque con arma de fuego en un parque público. #Monterrey. Fuente: Periódico El Nacional. https://cutt.ly/hWGVVVb</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3838874,25.7807255,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B76</name>
+      <description>26-ago. La víctima de entre 23 años fue asesinada con arma de fuego y expuesta en la vía pública. #Ciénega (ubicación aproximada). Fuente: Reforma. https://cutt.ly/6WGBwM4</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2129487,25.8950375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B77</name>
+      <description>26-ago. La víctima de entre 20 y 25 años fue asesinada con arma de fuego y expuesta en la vía pública. #Ciénega (ubicación aproximada). Fuente: Reforma. https://cutt.ly/DWGBoNs</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2127254,25.8953003,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B78</name>
+      <description>27-ago. La mujer de 27 años fue golpeada y asesinada por estrangulamiento al interior de su vivienda. #GeneralZuazua. Fuente: Milenio. https://cutt.ly/EWGBgAl</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1707182,25.8910962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B79</name>
+      <description>29-ago. La mujer de 19 años fue asesinada en un ataque múltiple con arma de fuego por dos hombres que huyeron del negocio. #García. Fuente: Hora Cero. https://cutt.ly/XWGBxFI</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4852322,25.7957609,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B80</name>
+      <description>29-ago. La mujer de 39 años fue asesinada a golpes, así como un hombre que le acompañaba. #Escobedo. Fuente: Multimedios. https://cutt.ly/MWGBmHZ</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4116755,25.8431319,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B81</name>
+      <description>30-ago. La mujer de 62 años fue asesinada junto con su esposo con un arma blanca al interior de su vivienda. #Guadalupe. Fuente: Milenio. https://cutt.ly/PWGBT5q</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2610598,25.6574691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B82</name>
+      <description>07-sep. La víctima de 33 años fue llevada por su agresor al lecho del río en donde le propinó golpes en la cabeza. #SalinasVictoria. Fuente: ABC Noticias. https://cutt.ly/EWGBApr</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2625599,25.8030353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B83</name>
+      <description>13-sep. La víctima de 14 años fue lesionada con arma de fuego en su vivienda presuntamente por su pareja sentimental. #Cadereyta. Fuente: Proceso. https://cutt.ly/YWGBGHe</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.9809195,25.560308,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B84</name>
+      <description>18-sep. La mujer de aproximadamente 30 años fue asesinada en un ataque múltiple con arma de fuego por un grupo de hombres cuando se encontraba en su domicilio. #Guadalupe. Fuente: Multimedios. https://cutt.ly/5WGBZuX</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1915231,25.7043806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B85</name>
+      <description>14-sep. La víctima de 29 años fue asesinada con arma de fuego y encontrada en la vía pública. #Escobedo. Fuente: El Norte. https://cutt.ly/yWGBNEp</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3928253,25.7968574,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B86</name>
+      <description>18-sep. La mujer de 28 años fue asesinada con ataque de arma de fuego por un grupo de hombres cuando se encontraba en su domicilio, #Monterrey. Fuente: El Porvenir. https://cutt.ly/dWGB3AL</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3743474,25.7686233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B87</name>
+      <description>18-sep. La mujer de 50 fue asesinada con ataque de arma de fuego por un grupo de hombres cuando se encontraba en su domicilio, #Monterrey. Fuente: El Porvenir. https://cutt.ly/TWGNq3P</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3743583,25.768623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B88</name>
+      <description>19-sep. La mujer de 47 años fue golpeada y degollada por su pareja en un parque público luego de que se reunieran para hablar sobre el trámite del divorcio. #Apodaca. Fuente: INFO7. https://cutt.ly/rWGNu8l</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2645228,25.7876435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B89</name>
+      <description>20-sep. La menor de edad 6 meses de edad presuntamente perdió la vida a consecuencia de unos golpes por parte de sus padres. #Guadalupe. Fuente: ABC Noticias. https://cutt.ly/BWGNdj1</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2001327,25.6627099,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B90</name>
+      <description>27-sep. La menor de 14 años fue asesinada con arma de fuego al interior de su vivienda. #García. Fuente: ABC Noticias. https://cutt.ly/RWGNlMA</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4810774,25.7982331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B91</name>
+      <description>25-sep. La mujer de 50 años fue atropellada por un conductor de un auto a la entrada del fraccionamiento. #SalinasVictoria. Fuente: MM Radio. https://cutt.ly/2WGNnR8</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2633206,25.8749921,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B92</name>
+      <description>27-sep. La mujer de entre 50 y 55 años fue atropellada por un conductor de una camioneta tipo pick-up. #Santiago. Fuente: Milenio. https://cutt.ly/4WGNRcy</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1420278,25.4163248,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B93</name>
+      <description>29-sep. La mujer no identificada fue encontrada sin vida. #Monterrey. Fuente: Milenio. https://cutt.ly/hWGNOR5</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3250978,25.6977857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B94</name>
+      <description>3-sep. La menor de 16 años fue encontrada sin vida. #Anáhuac</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1288845,27.2385702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B95</name>
+      <description>29-sep. La mujer fue encontrada sin vida con golpes en su cuerpo en la vía pública. #Monterrey. Fuente: Milenio. https://cutt.ly/JWGNGPe</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3278881,25.7107406,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B96</name>
+      <description>03-oct. La víctima de 18 años fue asesinada con arma de fuego por varias personas en la vía pública mientras era acompañada por su pareja y un amigo. #Escobedo. Fuente: Dominio Medios. https://cutt.ly/jWGNZLX</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3630838,25.8077312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B97</name>
+      <description>05-oct. La mujer de 35 años fue víctima de un ataque con arma de fuego por varios hombres a bordo de una camioneta blanca, a la altura de un hotel. #Monterrey. Fuente: El Porvenir. https://cutt.ly/kWGNM91</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3921555,25.7546282,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B98</name>
+      <description>06-oct. La mujer de 44 años fue encontrada sin vida con lesiones de arma blanca en un baldío. #García. Fuente: El Porvenir. https://cutt.ly/cWGN8IG</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.6229719,25.8046173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B99</name>
+      <description>08-oct. La mujer de 50 años fue encontrada sin vida en la cajuela de auto que fue incendiado, en donde también había un hombre de 55 años. #Monterrey. Fuente: ABC Noticias. https://cutt.ly/gWGMqMS</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2957149,25.65088,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B100</name>
+      <description>13-oct. La mujer de aprox. 35 años perdió la vida cuando el taxista en el que viajaba a exceso de velocidad, luego que se impactara contra un poste. #Monterrey. Fuente: INFO7. https://cutt.ly/GWGMy7F</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3376186,25.7034914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B101</name>
+      <description>13-oct. La mujer de 25 años que era elemento policial perdió la vida en una volcadura de un auto compacto que era conducido por su compañero de trabajo, el cual sobrevivió.. #ElCarmen. Fuente: El Porvenir. https://cutt.ly/eWGMsWm</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3472273,25.9394637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B102</name>
+      <description>14-oct. La mujer de 28 años fue encontrada sin vida con golpes en el cuerpo, decapitada y marcas de calcinamiento. #Monterrey. Fuente: INFO7. https://cutt.ly/rWGMk93</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3776069,25.7471868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B103</name>
+      <description>19-oct. La mujer de 38 años fue asesinada por estrangulamiento presumiblemente por su pareja sentimental al interior de su vivienda. #Guadalupe. Fuente: ABC Noticias. https://cutt.ly/kWGMbHS</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1779625,25.6473063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B104</name>
+      <description>20-oct. La mujer de 45 años fue asesinada con un arma blanca en la vía pública. #Monterrey. Fuente: El Porvenir. https://cutt.ly/bWGMRtm</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3815194,25.7871355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B105</name>
+      <description>22-oct. La mujer de aprox. 30 y 35 años fue encontrada sin vida en un baldío, envuelta en cobijas y sábanas. #Monterrey. Fuente: Telediario. https://cutt.ly/5WGMPap</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.397155,25.7870505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B106</name>
+      <description>04-nov. La mujer de aprox. 19 años, quien era madre de un menor de edad que también fue asesinado por su padre, fue encontrada calcinada. #Montemorelos (ubicación aproximada). Fuente: El Norte. https://cutt.ly/vWGMGsE</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.8076115,25.1920867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B107</name>
+      <description>04-nov. La mujer de aprox. 50 años que era enfermera, fue encontrada sobre un charco de sangre y sin vida al interior de su vivienda. #Montemorelos. Fuente: Multimedios. https://cutt.ly/zWGMZBL</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.8396873,25.1655549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B108</name>
+      <description><![CDATA[0'5-nov. La mujer de 29 años perdió la vida en una volcadura de auto, que era manejado por su acompañante. #Guadalupe (ubicación aproximada). Fuente: El Porvenir. https://cutt.ly/cWGM1Ek]]></description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2169548,25.703035,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B109</name>
+      <description>07-nov.. La mujer fue atropellada por el conductor de un auto que se dio a la fuga. #Escobedo. Fuente: INFO7. https://cutt.ly/OWGM4df</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2735265,25.7849316,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B110</name>
+      <description>12-nov.. La mujer de 31 años fue encontrada sin vida al interior de una bolsa plástica en la vía pública. Se presume que guarda relación con la etiqueta B111. #Escobedo. Fuente: INFO7. https://cutt.ly/hWG1w77</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3585802,25.8237314,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B111</name>
+      <description>12-nov.. La mujer de 31 años fue encontrada sin vida al interior de una bolsa plástica en la vía pública. Se presume que guarda relación con la etiqueta B110. #Escobedo. Fuente: Debate. https://cutt.ly/HWG1sCN</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3915605,25.8029964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B112</name>
+      <description>19-nov. La mujer de 22 años fue encontrada en la vía pública sin vida dentro de una bolsa plástica junto con otras dos personas sin vida. #Monterrey. Fuente: INFO7. https://cutt.ly/0WG1kFQ</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3647828,25.7392303,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B113</name>
+      <description>20-nov. La mujer no identificada de aprox. 25 años fue encontrada sin vida en una maleta con golpes en su cuerpo en la vía pública. #Escobedo. Fuente: INFO7. https://cutt.ly/SWG1bAE</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3657767,25.8059057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B114</name>
+      <description>07-dic. La mujer no identificada fue encontrada sin vida con heridas de arma de fuego en un rancho. #LosRamones. Fuente: El Porvenir. https://cutt.ly/WWG0IQ9</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.5936236,25.6360369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B115</name>
+      <description>09-dic. La mujer de 32 años perdió la vida por paro respiratorio ocasionado por una trombosis multiorgánica aparentemente por negligencia médica. #Monterrey. Fuente: Proceso. https://cutt.ly/qWG0S4W</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3509375,25.6754375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B116</name>
+      <description>12-dic. La mujer no identificada fue encontrada sin vida en un baldío. #Apodaca. Fuente: Blog del Regio. https://cutt.ly/wWG0JSi</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1443125,25.8208125,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B117</name>
+      <description>16-dic. La mujer no identificada fue encontrada sin vida presuntamente arrollada por el tren. #SanNicolás. Fuente: Milenio. https://cutt.ly/nWG0BDj</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3162135,25.7444655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B118</name>
+      <description>17-dic. La mujer de 30 años fue asesinada con arma de fuego por hombres a bordo de un auto cuando circulaba por la avenida. #Guadalupe. Fuente: Milenio. https://cutt.ly/vWG02m9</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.1791875,25.6604375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B119</name>
+      <description>19-dic. La mujer no identificada fue asesinada junto con un hombre con arma de fuego al interior de su vivienda. #Monterrey. Fuente: Milenio. https://cutt.ly/DWG04Zs</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3333512,25.7392841,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B120</name>
+      <description>20-dic. La mujer de 36 años fue asesinada con arma de fuego en negocio por hombres que se hicieron pasar por clientes, los cuales huyeron en una motocicleta. #Monterrey. Fuente: El Porvenir. https://cutt.ly/yWG2wst</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3978125,25.7800625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B121</name>
+      <description>28-dic. La mujer de 19 años fue asesinada con arma blanca presuntamente por su pareja sentimental al interior de su vivienda. #Monterrey. Fuente: Dominio Medios. https://cutt.ly/6WG2u7U</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2756271,25.656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B122</name>
+      <description>30-dic. La mujer de 70 años fue asesinada con arma de fuego al interior de su vivienda. #Mina. Fuente: Telediario. https://cutt.ly/WWG2fK6</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.5296051,26.0025281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B123</name>
+      <description>30-dic. La mujer de 25 años fue asesinada con arma de fuego al interior de su vivienda. #Monterrey. Fuente: La Jornada. https://cutt.ly/0WG2kmq</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.3404375,25.7284375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B124</name>
+      <description>31-dic. La mujer de 50 años fue asesinada con arma de fuego al interior de su vivienda. #Linares. Fuente: Debate. https://cutt.ly/AWG2bpp</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.5782305,24.8734652,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B125</name>
+      <description>31-dic. La mujer de 32 años fue asesinada con arma de fuego al interior de su vivienda. #Linares. Fuente: Debate. https://cutt.ly/KWG2EvC</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -99.5782224,24.8734506,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B126</name>
+      <description>01-feb. La mujer de 27 años de edad se quitó la vida con un arma blanca al degollarse en su vivienda. Era víctima de violencia familiar. #SalinasVictoria. Fuente: El Heraldo de Juárez. https://cutt.ly/EWttU2R</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.2674063,25.8733865,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B127</name>
+      <description>25-may. Hombres que andaban en un auto atacaron con arma de fuego a una pareja; la mujer no fue identificada. #SantaCatarina. Fuente: Debate. https://cutt.ly/qWG2FTH</description>
+      <styleUrl>#icon-1739-7CB342</styleUrl>
+      <Point>
+        <coordinates>
+          -100.4543013,25.6704213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
