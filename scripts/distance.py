@@ -49,26 +49,26 @@ def find_nearest_n_places(df_escuelas, df_alcohol, n_neighbors=1):
 
 
 def find_nearest_within_radius(df_escuelas, df_alcohol, radius):
-    # Identify valid and invalid rows
+    # Algunos datos de feminicidios no vienen con latitud y longitud, los quitamos
     valid_rows = df_escuelas[['latitud', 'longitud']].notna().all(axis=1)
     invalid_rows = ~valid_rows
 
-    # Filter for valid rows
+    # Agarramos numpy de los que si son latitud longitud
     valid_escuelas = df_escuelas[valid_rows]
     coords_df1 = valid_escuelas[['latitud', 'longitud']].to_numpy()
     coords_df2 = df_alcohol[['latitud', 'longitud']].to_numpy()
 
-    # Perform nearest neighbor search on valid data
+    # Usamos SKlearn
     nbrs = NearestNeighbors(radius=radius, metric=semiverseno).fit(coords_df2)
     valid_distances, valid_indices = nbrs.radius_neighbors(coords_df1)
 
-    # Initialize results with placeholders
+    # Ponemos los datos de los que no tienen latitud y longitud como 0
     all_distances = np.empty(len(df_escuelas), dtype=object)
     all_indices = np.empty(len(df_escuelas), dtype=object)
     all_distances[invalid_rows] = 0
     all_indices[invalid_rows] = [0]
 
-    # Assign the calculated distances and indices to valid rows
+    # Ponemos los datos de los que si tienen latitud y longitud
     all_distances[valid_rows] = valid_distances
     all_indices[valid_rows] = valid_indices
 

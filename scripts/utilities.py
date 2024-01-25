@@ -2,6 +2,7 @@ import pandas as pd
 import unicodedata
 from pykml import parser
 from os import path
+import numpy as np
 
 """
 Script de utilidades para el proyecto de feminicidios
@@ -67,3 +68,11 @@ def read_kml_to_dataframe(file_path):
         })
 
     return pd.DataFrame(data)
+
+def process_index(idx, df):
+    if isinstance(idx, np.ndarray):
+        # Convert each element to string to avoid TypeError
+        establishments = [str(df.loc[i, 'nom_estab']) for i in idx]
+        return '; '.join(establishments)
+    else:
+        return 'Nada Cerca'
